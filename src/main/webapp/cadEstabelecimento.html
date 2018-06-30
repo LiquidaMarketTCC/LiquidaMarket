@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>LiquidaMarket - Cadastro de Estabelecimento</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+		<!-- bootstrap -->
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">      
+		<link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">		
+		<link href="themes/css/bootstrappage.css" rel="stylesheet"/>
+		
+		<!-- global styles -->
+		<link href="themes/css/flexslider.css" rel="stylesheet"/>
+		<link href="themes/css/main.css" rel="stylesheet"/>
+
+		<!-- scripts -->
+		<script src="themes/js/jquery-1.7.2.min.js"></script>
+		<script src="bootstrap/js/bootstrap.min.js"></script>				
+		<script src="themes/js/superfish.js"></script>	
+		<script src="themes/js/jquery.scrolltotop.js"></script>
+		<script src="js/cadEstabelecimento.js"></script>
+		<script src="js/login.js"></script>
+		<!--[if lt IE 9]>			
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+    <body id="Conteudo" >		
+		<div id="top-bar" class="container">
+			<div class="row">
+				<div class="span4">
+					<form method="POST" class="search_form">
+						<input type="text" class="input-block-level search-query" Placeholder="O que você procura?">
+					</form>
+				</div>
+				<div class="span8">
+					<div class="account pull-right">
+						<ul id ="User_Bar" class="user-menu">				
+							<li><a id="BTN_Connect" href="register.html">Login</a></li>				
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="wrapper" class="container">
+			<section class="navbar main-menu">
+				<div class="navbar-inner main-menu">				
+					<a href="index.html" class="logo pull-left"><img src="themes/images//logo.png" class="site_logo" alt=""></a>
+					<nav id="menu" class="pull-right">
+						<ul>
+							<li><a href="./index.html">Página Inicial</a></li>															
+							<li><a href="./products.html">Produtos</a></li>			
+							<li><a href="./sale.html">Promoções</a></li>
+							<li><a href="./stores.html">Estabelecimentos</a></li>
+							<li><a href="./contact.html">Fale Conosco</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>			
+			<section class="header_text sub">
+				<h4><span>Cadastro de Estabelecimento</span></h4>
+			</section>			
+			<section class="main-content">				
+				<div class="row">
+					<div class="span5">					
+						<h4 class="title"><span class="text">Formulário de <strong>Cadastro</strong></span></h4>
+						<form action="#" method="post">
+							<input type="hidden" name="next" value="/">
+							<fieldset>
+								<div class="control-group">
+									<label class="control-label">CNPJ:</label>
+									<div class="controls">
+										<input type="text" class="input-xlarge" readonly="true" id="cnpj">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">E-mail:</label>
+									<div class="controls">
+										<input type="text" id="email" class="input-xlarge" readonly="true">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">Razão Social:</label>
+									<div class="controls">
+										<input type="text" placeholder="Informe a Razão Social" id="razaoSocial" class="input-xlarge">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">Nome Fantasia:</label>
+									<div class="controls">
+										<input type="text" placeholder="Informe o Nome Fantasia" id="nomeFantasia" class="input-xlarge">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">Endereço:</label>
+									<div class="controls">
+										<input type="text" placeholder="Informe o endereço" id="endereco" class="input-xlarge">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">Telefone:</label>
+									<div class="controls">
+										<input type="text" placeholder="(00)0000-0000" id="telefone" class="input-xlarge">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">Horário de Funcionamento:</label>
+									<div class="controls">
+										<label class="control-label">Das</label>
+										<input type="text" placeholder="00:00" id="horaInicial" class="input-xlarge" maxlength="5" size="4">
+										<label class="control-label">ás</label>
+										<input type="text" placeholder="00:00" id="horaFinal" class="input-xlarge" maxlength="5" size="4">
+									</div>
+								</div>
+								<div class="control-group">
+									<label class="control-label">Formas de Pagamento:</label>
+									<div class="controls">
+										<input type="checkbox" id="dinheiro" value="Dinheiro"> Dinheiro<br>
+										<input type="checkbox" id="credito" value="Cartão de Crédito"> Cartão de Crédito<br>
+										<input type="checkbox" id="debito" value="Cartão de Débito"> Cartão de Débito<br>
+										<input type="checkbox" id="cheque" value="Cheque"> Cheque<br>
+										<input type="checkbox" id="refeicao" value="Vale Refeição"> Vale Refeição<br>
+										<input type="checkbox" id="alimentacao" value="Vale Alimentação"> Vale Alimentação
+									</div>
+								</div>
+									<input tabindex="3" id="BTN_Salvar" class="btn btn-inverse large" type="button" value="Salvar">
+								</div>
+							</fieldset>
+						</form>				
+					</div>
+					<div class="span7">					
+						
+						<form action="#" method="post" class="form-stacked">
+							<fieldset>
+								
+							</fieldset>
+						</form>					
+					</div>				
+				</div>
+			</section>			
+			<section id="footer-bar">
+				<div class="row">
+					<div class="span1"></div>
+					<div class="span3">
+						<h4>Navegação</h4>
+						<ul class="nav">
+							<li><a href="./index.html">Página Inicial</a></li>  
+							<li><a href="./products.html">Produtos</a></li>
+							<li><a href="./sale.html">Promoções</a></li>
+							<li><a href="./contact.html">Fale Conosco</a></li>
+							<li><a href="./register.html">Login</a></li>							
+						</ul>					
+					</div>
+					<div class="span4">
+						
+					</div>
+					<div class="span5">
+						<p class="logo"><img src="themes/images/logo.png" class="site_logo" alt=""></p>
+						<p>LiquidaMarket é a sua ferramenta online de comparação de preços de supermercados. Fique por dentro das melhores promoções.</p>
+						<br/>
+						
+					</div>					
+				</div>	
+			</section>
+			<section id="copyright">
+				<span>	Copyright 2018 LiquidaMarket. Todos os direitos reservados.</span>
+			</section>
+		</div>
+		<script src="themes/js/common.js"></script>		
+    </body>
+</html>

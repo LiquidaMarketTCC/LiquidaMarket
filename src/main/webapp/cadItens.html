@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>LiquidaMarket - Cadastro de Promoção</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+<!-- bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="themes/css/bootstrappage.css" rel="stylesheet" />
+
+<!-- global styles -->
+<link href="themes/css/flexslider.css" rel="stylesheet" />
+<link href="themes/css/main.css" rel="stylesheet" />
+
+<!-- scripts -->
+<script src="themes/js/jquery-1.7.2.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="themes/js/superfish.js"></script>
+<script src="themes/js/jquery.scrolltotop.js"></script>
+<script src="js/login.js"></script>
+<script src="js/cadItens.js"></script>
+<!--[if lt IE 9]>			
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+</head>
+<body id="Conteudo">
+	<div id="top-bar" class="container">
+		<div class="row">
+			<div class="span4">
+				<form method="POST" class="search_form">
+					<input type="text" class="input-block-level search-query"
+						Placeholder="O que você procura?">
+				</form>
+			</div>
+			<div class="span8">
+				<div class="account pull-right">
+					<ul id="User_Bar" class="user-menu">
+						<li><a id="BTN_Connect" href="register.html">Login</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="wrapper" class="container">
+		<section class="navbar main-menu">
+			<div class="navbar-inner main-menu">
+				<a href="index.html" class="logo pull-left"><img
+					src="themes/images//logo.png" class="site_logo" alt=""></a>
+				<nav id="menu" class="pull-right">
+					<ul>
+						<li><a href="./index.html">Página Inicial</a></li>
+						<li><a href="./products.html">Produtos</a></li>
+						<li><a href="./sale.html">Promoções</a></li>
+						<li><a href="./stores.html">Estabelecimentos</a></li>
+						<li><a href="./contact.html">Fale Conosco</a></li>
+					</ul>
+				</nav>
+			</div>
+		</section>
+		<section class="header_text sub">
+			<h4>
+				<span>Cadastro de Promoção</span>
+			</h4>
+		</section>
+		<section class="main-content">
+			<div class="row">
+				<div class="span5">
+					<h4 class="title">
+						<span class="text">Formulário de <strong>Cadastro</strong></span>
+					</h4>
+					<form action="#" method="post">
+						<input type="hidden" name="next" value="/">
+						<fieldset>
+							<div class="control-group">
+								<label class="control-label">Nome da Promoção:</label>
+								<div class="controls">
+									<input type="text" class="input-xlarge" id="nome"
+										readonly="true">
+								</div>
+							</div>
+							<div>
+								<label>Selecione o item que deseja incluir e informe o
+									valor promocional:</label>
+								<div id="LIST_Itens" >
+								</div>
+							</div>
+							<br /> <input id="BTN_Salvar" tabindex="3"
+								class="btn btn-inverse large" type="button" value="Salvar">
+				</div>
+				</fieldset>
+				</form>
+			</div>
+			<div class="span7">
+
+				<form action="#" method="post" class="form-stacked">
+					<fieldset></fieldset>
+				</form>
+			</div>
+	</div>
+	</section>
+	<section id="footer-bar">
+		<div class="row">
+			<div class="span1"></div>
+			<div class="span3">
+				<h4>Navegação</h4>
+				<ul class="nav">
+					<li><a href="./index.html">Página Inicial</a></li>
+					<li><a href="./products.html">Produtos</a></li>
+					<li><a href="./sale.html">Promoções</a></li>
+					<li><a href="./contact.html">Fale Conosco</a></li>
+					<li><a href="./register.html">Login</a></li>
+				</ul>
+			</div>
+			<div class="span4"></div>
+			<div class="span5">
+				<p class="logo">
+					<img src="themes/images/logo.png" class="site_logo" alt="">
+				</p>
+				<p>LiquidaMarket é a sua ferramenta online de comparação de
+					preços de supermercados. Fique por dentro das melhores promoções.</p>
+				<br />
+
+			</div>
+		</div>
+	</section>
+	<section id="copyright">
+		<span> Copyright 2018 LiquidaMarket. Todos os direitos
+			reservados.</span>
+	</section>
+	</div>
+	<script src="themes/js/common.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('#checkout').click(function(e) {
+				document.location.href = "checkout.html";
+			})
+		});
+	</script>
+	<script>
+		String.prototype.reverse = function() {
+			return this.split('').reverse().join('');
+		};
+
+		function mascaraMoeda(campo, evento) {
+			var tecla = (!evento) ? window.event.keyCode : evento.which;
+			var valor = campo.value.replace(/[^\d]+/gi, '').reverse();
+			var resultado = "";
+			var mascara = "##.###.###,##".reverse();
+			for (var x = 0, y = 0; x < mascara.length && y < valor.length;) {
+				if (mascara.charAt(x) != '#') {
+					resultado += mascara.charAt(x);
+					x++;
+				} else {
+					resultado += valor.charAt(y);
+					y++;
+					x++;
+				}
+			}
+			campo.value = resultado.reverse();
+		}
+	</script>
+
+	<script type="text/javascript">
+		function recuperarDados() {
+			var url = window.location.href;
+			var parametrosDaUrl = url.split("?")[1];
+			var listaDeParametros = parametrosDaUrl.split("&");
+
+			var hash = {}
+			for (var i = 0; i < listaDeParametros.length; i++) {
+				var parametro = listaDeParametros[i].split("=");
+				var chave = parametro[0];
+				var valor = parametro[1];
+				hash[chave] = valor;
+			}
+
+			var estabelecimento = hash.estabelecimento;
+			var promocao = hash.promocao;
+			var nome = hash.nome;
+
+			document.getElementById('nome').value = nome;
+		}
+	</script>
+
+</body>
+</html>

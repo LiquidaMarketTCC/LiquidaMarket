@@ -1,0 +1,461 @@
+16-06-2018 14:13:09,701; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:13:09,823; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:13:09,823; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:13:10,089; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 14:13:10,810; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@5d5f10b2[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 14:13:11,068; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@5d5f10b2[
+  idRua=8
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 14:55:43,514; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:55:43,524; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:55:43,524; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:55:43,784; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 14:55:45,014; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: null
+16-06-2018 14:57:07,992; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:57:07,992; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:57:07,992; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:57:08,252; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 14:57:08,894; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: null
+16-06-2018 14:57:08,904; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@5ef6ae06[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 14:57:09,275; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@5ef6ae06[
+  idRua=9
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 14:58:44,426; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:58:44,426; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:58:44,426; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 14:58:44,716; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 14:58:45,607; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=1
+  nome=Nome
+]
+16-06-2018 14:58:45,607; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@57ea113a[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 14:58:45,647; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@57ea113a[
+  idRua=10
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:00:44,487; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:00:44,487; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:00:44,487; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:00:44,747; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:00:45,478; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@cd1d761[
+  idCategoria=2
+  nome=Nome
+]
+16-06-2018 15:01:42,894; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:01:42,894; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:01:42,894; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:01:43,158; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:01:43,839; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=3
+  nome=Nome
+]
+16-06-2018 15:01:43,919; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@6941827a[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:01:43,969; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@6941827a[
+  idRua=11
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:05:54,157; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:05:54,157; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:05:54,157; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:05:54,417; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:05:55,128; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@cd1d761[
+  idCategoria=4
+  nome=Nome
+]
+16-06-2018 15:06:48,015; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:06:48,015; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:06:48,015; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:06:48,305; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:06:49,086; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@cd1d761[
+  idCategoria=5
+  nome=Nome
+]
+16-06-2018 15:11:10,682; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:11:10,682; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:11:10,682; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:11:10,942; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:11:11,733; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=6
+  nome=Nome
+]
+16-06-2018 15:11:11,813; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@478ee483[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:11:11,974; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@478ee483[
+  idRua=12
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:14:20,463; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:14:20,463; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:14:20,463; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:14:20,753; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:14:21,494; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=7
+  nome=Nome
+]
+16-06-2018 15:14:21,574; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@4a891c97[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:14:21,625; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@4a891c97[
+  idRua=13
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:16:43,957; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:16:43,957; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:16:43,957; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:16:44,217; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:16:45,048; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=8
+  nome=Nome
+]
+16-06-2018 15:16:45,128; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@a5bd950[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:16:45,179; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@a5bd950[
+  idRua=14
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:20:18,245; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:20:18,245; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:20:18,245; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:20:18,535; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:20:19,266; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=9
+  nome=Nome
+]
+16-06-2018 15:20:19,336; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:20:19,346; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@5dd91bca[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:20:19,397; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@5dd91bca[
+  idRua=15
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:21:15,250; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:21:15,251; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:21:15,252; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:21:15,516; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:21:16,227; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=10
+  nome=Nome
+]
+16-06-2018 15:21:16,307; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:21:16,307; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@40cb698e[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:21:16,358; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@40cb698e[
+  idRua=16
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:22:07,990; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:22:07,990; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:22:07,990; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:22:08,258; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:22:09,032; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=11
+  nome=Nome
+]
+16-06-2018 15:22:09,112; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:22:09,122; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@3382f8ae[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:22:09,173; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@3382f8ae[
+  idRua=17
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:23:19,776; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:23:19,776; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:23:19,776; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:23:20,036; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:23:20,807; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=12
+  nome=Nome
+]
+16-06-2018 15:23:20,887; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:23:20,887; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@60641ec8[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:23:20,968; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@60641ec8[
+  idRua=18
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:23:47,706; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:23:47,706; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:23:47,706; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:23:47,966; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:23:48,685; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=13
+  nome=Nome
+]
+16-06-2018 15:23:48,765; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:23:48,775; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@75f65e45[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:23:48,826; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@75f65e45[
+  idRua=19
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:25:08,917; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:25:08,917; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:25:08,917; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:25:09,177; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:25:09,908; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=14
+  nome=Nome
+]
+16-06-2018 15:25:09,988; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:25:09,998; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@6eeade6c[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:25:10,049; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@6eeade6c[
+  idRua=20
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:25:52,949; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:25:52,949; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:25:52,949; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 15:25:53,209; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 15:25:53,934; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@2d96543c[
+  idCategoria=15
+  nome=Nome
+]
+16-06-2018 15:25:54,014; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 15:25:54,014; [main]; INFO ; org.market.dao.RuaDAOTest;  - Found: org.market.entidades.Categoria@6da00fb9[
+  idCategoria=1
+  nome=Nome
+]
+16-06-2018 15:25:54,014; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@5dd91bca[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 15:25:54,084; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@5dd91bca[
+  idRua=21
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 16:40:18,766; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:40:18,766; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:40:18,766; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:40:19,036; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:40:20,077; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@628c4ac0[
+  idCategoria=16
+  nome=Nome
+]
+16-06-2018 16:40:20,162; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:40:20,162; [main]; INFO ; org.market.dao.RuaDAOTest;  - Found: org.market.entidades.Categoria@68b6f0d6[
+  idCategoria=1
+  nome=Nome
+]
+16-06-2018 16:40:20,162; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@7e928e2f[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 16:40:20,222; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@7e928e2f[
+  idRua=22
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 16:40:20,222; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:40:20,302; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = null
+16-06-2018 16:41:11,601; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:41:11,601; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:41:11,601; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:41:11,891; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:41:12,722; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@1e8ce150[
+  idCategoria=17
+  nome=Nome
+]
+16-06-2018 16:41:12,792; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:41:12,802; [main]; INFO ; org.market.dao.RuaDAOTest;  - Found: org.market.entidades.Categoria@686449f9[
+  idCategoria=1
+  nome=Nome
+]
+16-06-2018 16:41:12,802; [main]; INFO ; org.market.dao.RuaDAOTest;  - Before: org.market.entidades.Rua@2262b621[
+  idRua=<null>
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 16:41:12,852; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Rua@2262b621[
+  idRua=23
+  nome=Nome
+  descricao=Descricao
+  imagem=<null>
+]
+16-06-2018 16:41:12,862; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:41:12,862; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = null
+16-06-2018 16:42:13,859; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:42:13,869; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:42:13,869; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:42:14,179; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:42:14,869; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:42:14,900; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = null
+16-06-2018 16:42:41,773; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:42:41,773; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:42:41,773; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:42:42,063; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:42:42,753; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:42:42,793; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = null
+16-06-2018 16:44:30,141; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:44:30,141; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:44:30,141; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:44:30,431; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:44:31,141; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:44:31,272; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = org.market.entidades.Estabelecimento@625abb97
+16-06-2018 16:44:46,282; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:44:46,282; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:44:46,282; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:44:46,572; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:44:47,292; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 16:44:47,414; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = org.market.entidades.Estabelecimento@57ac5227
+16-06-2018 16:55:37,483; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:55:37,483; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:55:37,483; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 16:55:37,753; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 16:55:38,844; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Marca@40844aab
+16-06-2018 16:55:38,914; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 59.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:07:12,235; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:07:12,235; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:07:12,235; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:07:12,505; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:08:24,424; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:24,424; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:24,424; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:24,694; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:08:25,445; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@4372b9b6[
+  idCategoria=18
+  nome=Nome
+]
+16-06-2018 17:08:25,525; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:08:25,535; [main]; INFO ; org.market.dao.RuaDAOTest;  - Found: org.market.entidades.Categoria@40cb698e[
+  idCategoria=1
+  nome=Nome
+]
+16-06-2018 17:08:25,545; [main]; WARN ; org.hibernate.engine.jdbc.spi.SqlExceptionHelper;  - SQL Error: 1062, SQLState: 23000
+16-06-2018 17:08:25,545; [main]; ERROR; org.hibernate.engine.jdbc.spi.SqlExceptionHelper;  - Duplicate entry '1' for key 'PRIMARY'
+16-06-2018 17:08:25,545; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: null
+16-06-2018 17:08:25,555; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 64.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:08:25,596; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:08:25,676; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = org.market.entidades.Estabelecimento@4a3329b9
+16-06-2018 17:08:33,844; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:33,844; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:33,844; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:34,134; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:08:34,844; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 64.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:08:40,120; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:40,120; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:40,120; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:40,390; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:08:41,221; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: org.market.entidades.Categoria@74960bfa[
+  idCategoria=19
+  nome=Nome
+]
+16-06-2018 17:08:41,301; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 63.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:08:41,301; [main]; INFO ; org.market.dao.RuaDAOTest;  - Found: org.market.entidades.Categoria@6eeade6c[
+  idCategoria=1
+  nome=Nome
+]
+16-06-2018 17:08:46,024; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:46,024; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:46,024; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:46,314; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:08:47,004; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:08:47,115; [main]; INFO ; org.market.dao.RuaDAOTest;  - After = org.market.entidades.Estabelecimento@6bea52d4
+16-06-2018 17:08:52,400; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:52,400; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:52,410; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:08:52,670; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:08:53,360; [main]; WARN ; org.hibernate.engine.jdbc.spi.SqlExceptionHelper;  - SQL Error: 1062, SQLState: 23000
+16-06-2018 17:08:53,360; [main]; ERROR; org.hibernate.engine.jdbc.spi.SqlExceptionHelper;  - Duplicate entry '1' for key 'PRIMARY'
+16-06-2018 17:08:53,360; [main]; INFO ; org.market.dao.RuaDAOTest;  - After: null
+16-06-2018 17:28:47,908; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:28:47,911; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:28:47,911; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:28:48,486; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:28:52,418; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 81.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+16-06-2018 17:49:55,153; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:49:55,153; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:49:55,153; [main]; WARN ; org.hibernate.ejb.HibernatePersistence;  - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+16-06-2018 17:49:55,433; [main]; WARN ; org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl;  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16-06-2018 17:49:58,346; [main]; WARN ; org.hibernate.hql.internal.ast.HqlSqlWalker;  - [DEPRECATION] Encountered positional parameter near line 1, column 69.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
